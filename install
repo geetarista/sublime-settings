@@ -1,0 +1,37 @@
+#!/bin/sh
+
+# This installation is destructive, as it removes exisitng files/directories.
+# Use at your own risk.
+
+user_dir="$HOME/Library/Application Support/Sublime Text 2/Packages/User"
+
+if [[ ! -d "$user_dir" ]]; then
+  mkdir -p "$user_dir"
+fi
+
+package_dir="$HOME/Library/Application Support/Sublime Text 2/Packages/Package Control"
+
+echo "Installing/updating Package Control"
+if [[ ! -d "$package_dir" ]]; then
+  git clone https://github.com/wbond/sublime_package_control.git "$package_dir"
+else
+  current_dir="$PWD"
+  cd "$package_dir"
+  git pull
+  cd "$current_dir"
+fi
+
+for name in *; do
+  if [[ ! "$name" == "README.md" && ! "$name" == "LICENSE" && ! "$name" == "install" ]]; then
+    target="$user_dir/$name"
+
+    if [[ -h "$target" ]]; then
+      rm "$target"
+    elif [[ -d "$target" ]]; then
+      rm -rf "$target"
+    fi
+
+    ln -s "$PWD/$name" "$target"
+    echo "Linked $name => $target."
+  fi
+done
