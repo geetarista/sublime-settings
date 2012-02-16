@@ -7,6 +7,7 @@ These are my personal settings for Sublime Text 2.
 WARNING: Existing files are deleted during installation. Use at your own risk.
 
 To use, just run the following commands:
+
 ```bash
 git clone git://github.com/geetarista/sublime-settings.git
 cd sublime-settings
