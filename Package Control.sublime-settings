@@ -1,9 +1,9 @@
 {
-	"auto_upgrade_last_run": 1326295284,
+	"auto_upgrade_last_run": 1329418867,
 	"installed_packages":
 	[
 		"Alignment",
-		"coffee-script-tmbundle",
+		"CoffeeScript",
 		"CTags",
 		"Git",
 		"HTML5",
@@ -16,17 +16,15 @@
 		"RSpec (snippets and syntax)",
 		"sublime-text-haml-sass",
 		"TextMate-Themes",
-		"Theme - Soda",
-		"uber-glory-tmbundle"
+		"Theme - Soda"
 	],
 	"repositories":
 	[
-		"https://github.com/jashkenas/coffee-script-tmbundle",
 		"https://github.com/kemayo/sublime-text-2-git",
 		"https://github.com/filmgirl/TextMate-Themes",
 		"https://github.com/maltize/sublime-text-2-ruby-tests",
-		"https://github.com/jashkenas/coffee-script-tmbundle",
-		"https://github.com/n00ge/sublime-text-haml-sass"
+		"https://github.com/n00ge/sublime-text-haml-sass",
+		"https://github.com/glennr/uber-glory-tmbundle"
 	],
 	"repository_channels":
 	[
