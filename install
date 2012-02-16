@@ -25,7 +25,7 @@ for name in *; do
   if [[ ! "$name" == "README.md" && ! "$name" == "LICENSE" && ! "$name" == "install" ]]; then
     target="$user_dir/$name"
 
-    if [[ -h "$target" ]]; then
+    if [[ -e "$target" ]]; then
       rm "$target"
     elif [[ -d "$target" ]]; then
       rm -rf "$target"
