@@ -1,8 +1,9 @@
 {
-	"auto_upgrade_last_run": 1330304095,
+	"auto_upgrade_last_run": 1330310724,
 	"installed_packages":
 	[
 		"Alignment",
+		"coffee-script-tmbundle",
 		"CoffeeScript",
 		"CTags",
 		"Git",
@@ -42,7 +43,9 @@
 		"https://github.com/kemayo/sublime-text-2-git",
 		"https://github.com/colinta/SublimeChangeQuotes",
 		"https://github.com/atadams/Hex-to-HSL-Color",
-		"https://bitbucket.org/sublimator/sublime-2-zencoding"
+		"https://bitbucket.org/sublimator/sublime-2-zencoding",
+		"https://github.com/glennr/uber-glory-tmbundle",
+		"https://github.com/revolunet/sublimetext-markdown-preview"
 	],
 	"repository_channels":
 	[
