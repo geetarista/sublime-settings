@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1329955827,
+	"auto_upgrade_last_run": 1330304095,
 	"installed_packages":
 	[
 		"Alignment",
@@ -24,7 +24,25 @@
 		"https://github.com/filmgirl/TextMate-Themes",
 		"https://github.com/maltize/sublime-text-2-ruby-tests",
 		"https://github.com/n00ge/sublime-text-haml-sass",
-		"https://github.com/glennr/uber-glory-tmbundle"
+		"https://github.com/glennr/uber-glory-tmbundle",
+		"https://github.com/mrmartineau/Jquery",
+		"https://github.com/wbond/sublime_prefixr",
+		"https://github.com/kronuz/SublimeLinter",
+		"https://github.com/mrmartineau/Placeholders",
+		"https://github.com/kemayo/sublime-text-2-clipboard-history",
+		"https://github.com/wuub/SublimeREPL",
+		"https://github.com/phillipkoebbe/DetectSyntax",
+		"https://github.com/cgutierrez/JsMinifier",
+		"https://github.com/Kronuz/SublimeCodeIntel",
+		"https://github.com/SublimeText/Tag",
+		"https://github.com/facelessuser/BracketHighlighter",
+		"https://github.com/jdc0589/CaseConversion",
+		"https://github.com/ericmartel/Sublime-Text-2-Stackoverflow-Plugin",
+		"https://github.com/cyphactor/sublime_guard",
+		"https://github.com/kemayo/sublime-text-2-git",
+		"https://github.com/colinta/SublimeChangeQuotes",
+		"https://github.com/atadams/Hex-to-HSL-Color",
+		"https://bitbucket.org/sublimator/sublime-2-zencoding"
 	],
 	"repository_channels":
 	[
