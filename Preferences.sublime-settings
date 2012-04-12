@@ -1,4 +1,5 @@
 {
+	"binary_file_patterns": ["*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip", "*.scssc"],
 	"color_scheme": "Packages/TextMate-Themes/IR_Black.tmTheme",
 	"font_face": "Meslo LG L DZ",
 	"font_options": ["bold"],

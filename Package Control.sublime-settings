@@ -1,20 +1,27 @@
 {
-	"auto_upgrade_last_run": 1330304095,
+	"auto_upgrade_last_run": 1334247587,
 	"installed_packages":
 	[
 		"Alignment",
 		"CoffeeScript",
 		"CTags",
+		"Gist",
 		"Git",
+		"github_textmate_preview",
 		"HTML5",
 		"IndentGuides",
+		"JSHint",
+		"Markdown Preview",
 		"Modelines",
 		"Nettuts+ Fetch",
 		"Nodejs",
 		"Package Control",
 		"RSpec",
 		"RSpec (snippets and syntax)",
+		"RubyTest",
+		"SCSS",
 		"sublime-text-haml-sass",
+		"TestChooser",
 		"TextMate-Themes",
 		"Theme - Soda"
 	],
@@ -42,7 +49,10 @@
 		"https://github.com/kemayo/sublime-text-2-git",
 		"https://github.com/colinta/SublimeChangeQuotes",
 		"https://github.com/atadams/Hex-to-HSL-Color",
-		"https://bitbucket.org/sublimator/sublime-2-zencoding"
+		"https://bitbucket.org/sublimator/sublime-2-zencoding",
+		"https://github.com/maltize/sublime-text-2-ruby-tests",
+		"https://github.com/kneath/github_textmate_preview",
+		"https://github.com/kneath/github_textmate_preview"
 	],
 	"repository_channels":
 	[
