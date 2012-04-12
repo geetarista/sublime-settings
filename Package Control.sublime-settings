@@ -1,8 +1,9 @@
 {
-	"auto_upgrade_last_run": 1334247587,
+	"auto_upgrade_last_run": 1330310724,
 	"installed_packages":
 	[
 		"Alignment",
+		"coffee-script-tmbundle",
 		"CoffeeScript",
 		"CTags",
 		"Gist",
@@ -52,7 +53,7 @@
 		"https://bitbucket.org/sublimator/sublime-2-zencoding",
 		"https://github.com/maltize/sublime-text-2-ruby-tests",
 		"https://github.com/kneath/github_textmate_preview",
-		"https://github.com/kneath/github_textmate_preview"
+		"https://github.com/revolunet/sublimetext-markdown-preview"
 	],
 	"repository_channels":
 	[
