@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1334874190,
+	"auto_upgrade_last_run": 1336059006,
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -9,6 +9,7 @@
 		"Gist",
 		"Git",
 		"github_textmate_preview",
+		"Guard",
 		"HTML5",
 		"IndentGuides",
 		"JSHint",
