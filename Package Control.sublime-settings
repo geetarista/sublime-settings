@@ -1,7 +1,8 @@
 {
-	"auto_upgrade_last_run": 1336059006,
+	"auto_upgrade_last_run": 1341362404,
 	"installed_packages":
 	[
+		"AAAPackageDev",
 		"AdvancedNewFile",
 		"Alignment",
 		"CoffeeScript",
@@ -13,6 +14,7 @@
 		"HTML5",
 		"IndentGuides",
 		"JSHint",
+		"made-of-code-tmbundle",
 		"Markdown Preview",
 		"Modelines",
 		"Nettuts+ Fetch",
@@ -22,7 +24,12 @@
 		"RSpec (snippets and syntax)",
 		"RubyTest",
 		"SCSS",
+		"ST2-Arduino",
+		"sublime-jslint",
+		"sublime-minitest",
+		"sublime-text-2-rbenv",
 		"sublime-text-haml-sass",
+		"SublimeLinter",
 		"TestChooser",
 		"TextMate-Themes",
 		"Theme - Soda"
@@ -55,7 +62,13 @@
 		"https://github.com/maltize/sublime-text-2-ruby-tests",
 		"https://github.com/kneath/github_textmate_preview",
 		"https://github.com/revolunet/sublimetext-markdown-preview",
-		"https://github.com/xobb1t/Sublime-AdvancedNewFile"
+		"https://github.com/xobb1t/Sublime-AdvancedNewFile",
+		"https://github.com/joaodrp/sublime-minitest",
+		"https://github.com/maltize/sublime-text-2-ruby-tests",
+		"https://github.com/maltize/sublime-text-2-ruby-tests",
+		"https://github.com/felipeelias/sublime-text-2-rbenv",
+		"https://github.com/mkdynamic/made-of-code-tmbundle",
+		"https://github.com/fbzhong/sublime-jslint"
 	],
 	"repository_channels":
 	[
