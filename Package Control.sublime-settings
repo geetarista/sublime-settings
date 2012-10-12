@@ -24,14 +24,17 @@
 		"RSpec (snippets and syntax)",
 		"RubyTest",
 		"SCSS",
+		"SideBarEnhancements",
 		"ST2-Arduino",
 		"sublime-jslint",
 		"sublime-minitest",
 		"sublime-text-2-rbenv",
 		"sublime-text-haml-sass",
 		"SublimeLinter",
+		"SublimErl",
 		"TestChooser",
 		"TextMate-Themes",
+		"Theme - Nil",
 		"Theme - Soda"
 	],
 	"repositories":

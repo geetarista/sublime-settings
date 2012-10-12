@@ -24,14 +24,22 @@
 	],
 	"font_size": 13.0,
 	"highlight_line": true,
+	"highlight_modified_tabs": false,
 	"ignored_packages":
 	[
-		"SublimeLinter"
+		"Vintage",
+		"SublimeLinter",
+		"ST2-Arduino"
 	],
+	"new_window_settings":
+	{
+		"show_minimap": false
+	},
 	"rulers":
 	[
 		80
 	],
+	"save_on_focus_lost": false,
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
