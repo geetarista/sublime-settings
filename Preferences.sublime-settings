@@ -16,13 +16,13 @@
 		"*.zip",
 		"*.scssc"
 	],
-	"color_scheme": "Packages/TextMate-Themes/IR_Black.tmTheme",
-	"font_face": "Meslo LG L DZ",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_face": "Meslo LG L DZ Regular for Powerline",
 	"font_options":
 	[
 		"bold"
 	],
-	"font_size": 13.0,
+	"font_size": 14.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": false,
 	"ignored_packages":
